@@ -65,7 +65,6 @@ java Main
 
 ## 3. Penjelasan Gambar (Screenshot Output)
 
-![Contoh hasil menjalankan program](screenshots/contoh_run.png)
 
 Gambar di atas menunjukkan potongan hasil menjalankan program setelah beberapa
 pertandingan dicatat:
