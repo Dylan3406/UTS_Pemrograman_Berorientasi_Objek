@@ -1,4 +1,4 @@
-# Minpro 2 PBO Sistem Informasi Ekspedisi Antariksa
+# UTS PBO Sistem Informasi Ekspedisi Antariksa
 
 ## Deskripsi Singkat Program
 
